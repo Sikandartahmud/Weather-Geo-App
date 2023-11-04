@@ -128,7 +128,7 @@ input_1_form.addEventListener('submit', async function (event) {
     const options = {
         method: 'GET',
         headers: {
-            'X-RapidAPI-Key': 'a969c52006msh4cc0b8ea42a87d7p1e9e4cjsnca2d3118c697',
+            'X-RapidAPI-Key': '938c509453msh72b3548ffe9c76ap19d627jsn17f8dbadbaa0',
             'X-RapidAPI-Host': 'weatherapi-com.p.rapidapi.com'
         }
     };
